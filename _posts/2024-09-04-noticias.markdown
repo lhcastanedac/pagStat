@@ -8,7 +8,7 @@ Esta primera pagina contiene palabras `resaltadas` para una mejor lectura.
 
 El formato de hora debe ser `HH:mm:ss`
 
-Si desea resaltar un bloque de texto, este debe iniciar con `{% highlight ruby %}` y el final del texto debe terminar con `{% endhighlight %}`
+Si desea resaltar un bloque de texto, este debe iniciar con `% highlight ruby %` y el final del texto debe terminar con `% endhighlight %`
 
 {% highlight ruby %}
 Esta seccion esta resaltada
