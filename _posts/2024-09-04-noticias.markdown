@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Noticiasl del dia"
+title:  "Noticias del dia"
 date:   2024-09-03 13:22:01 -0700
 categories: jekyll update
 ---
