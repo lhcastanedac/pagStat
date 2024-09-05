@@ -4,22 +4,16 @@ title:  "Welcome to Jekyll!"
 date:   2024-09-03 13:22:01 -0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Esta primera pagina contiene palabras `resaltadas` para una mejor lectura.
 
-Jekyll requires blog post files to be named according to the following format:
+El formato de hora debe ser `HH:mm:ss`
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+Si desea resaltar un bloque de texto, este debe iniciar con `{% highlight ruby %}` y el final del texto debe terminar con `{% endhighlight %}`
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+Esta seccion esta resaltada
+para mostrar el efecto
+en la seccion 
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
