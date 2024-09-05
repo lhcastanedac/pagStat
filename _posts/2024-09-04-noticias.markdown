@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Noticias del dia"
-date:   2024-09-03 13:22:01 -0700
+date:   2024-09-04 13:22:01 -0700
 categories: jekyll update
 ---
 Esta primera pagina contiene palabras `resaltadas` para una mejor lectura.
